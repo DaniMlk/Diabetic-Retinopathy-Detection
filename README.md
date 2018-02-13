@@ -1,6 +1,6 @@
 # Diabetic-Retinopathy-Detection
-in this file we solve the Diabetic-Retinopathy-Detection competition and get the accuracy of 85% for our test dataset.
-we implement this code in pytorch. we do some pre-processing thing to get better accuracy with opencv. 
-requirement for the run this code:</br>
+In this implementation, I solved the Diabetic-Retinopathy-Detection competition and get the accuracy of 85% for our test dataset.
+I implement this code in pytorch platform. To get a better result, I do some pre-processing image that shows as pre_kaggle.py file
+the requirement for the run these codes are Tensorflow and Pytorch platform and for image processing I used opencv:</br>
 Pytorch</br>
 tensorboard
