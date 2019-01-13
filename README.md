@@ -8,13 +8,13 @@ first, run pre_kaggle.py to pre-processing your image to get better accuracy and
 for train and test run main.py 
 
 ## Requirments
-Python3
-Tensorboard
-Pytorch 0.3.0
-OpenCV
-Scikit-learn package
-Numpy 
-OS
+- Python3
+- Tensorboard
+- Pytorch 0.3.0
+- OpenCV
+- Scikit-learn package
+- Numpy 
+- OS
 
 
 ## Example Usage
