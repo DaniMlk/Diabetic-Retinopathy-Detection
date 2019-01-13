@@ -18,5 +18,5 @@ for train and test run main.py
 
 
 ## Example Usage
-python pre_kaggle.py
-python main.py
+- python pre_kaggle.py
+- python main.py
